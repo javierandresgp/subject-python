@@ -9,6 +9,7 @@
 * [x] 0. Hello World!
 * [x] :open_file_folder: 0x00
   - [Main source :copyright:](https://www.udemy.com/share/101sFuAEEcdF5VRno=/)
+  - [x] 01 to 16
 * [x] :open_file_folder: 0x01
   - [Main source :copyright:](http://aprendeconalf.es/python/ejercicios/)
   - [x] Serie 1 Tipos de datos simples
@@ -23,8 +24,11 @@
   - [ ] Serie 10 Pandas
 * [x] :open_file_folder: 0x02
   - [Main source :copyright:](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
+  - [x] 001 to 019
+  - [ ] 020 to 150
 * [x] :open_file_folder: 0x03
   - [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
+  - [x] Flask, REST API simple
 
 ## Learning Objectives
 ### General
