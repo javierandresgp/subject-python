@@ -4,7 +4,6 @@
 
 #### Resources
 * [Python :copyright:](https://www.python.org/)
-* [Maths challenge :copyright:](https://mathschallenge.net/)
 
 #### Training
 * [x] 0. Hello World!
@@ -30,10 +29,6 @@
 * [x] :open_file_folder: 0x03
   - [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
-* [x] :open_file_folder: 0x04
-  - [Main source :copyright:](https://projecteuler.net/)  
-  Algorithms  
-  A successful algorithm and an efficient implementation will allow a solution in less than one minute.
 
 ## Learning Objectives
 ### General
