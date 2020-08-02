@@ -31,8 +31,8 @@
   - [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
 * [x] :open_file_folder: 0x04
-  - [Main source :copyright:](https://projecteuler.net/)
-  Algorithms
+  - [Main source :copyright:](https://projecteuler.net/)  
+  Algorithms  
   A successful algorithm and an efficient implementation will allow a solution in less than one minute.
 
 ## Learning Objectives
