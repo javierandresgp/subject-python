@@ -6,11 +6,11 @@
 * [Python :copyright:](https://www.python.org/)
 
 #### Training
-* [x] 0. Hello World!
-* [x] :open_file_folder: 0x00
+* [x] :open_file_folder: 0x00 Foundations
+* [x] :open_file_folder: 0x01
   - [Main source :copyright:](https://www.udemy.com/share/101sFuAEEcdF5VRno=/)
   - [x] 01 to 16
-* [x] :open_file_folder: 0x01
+* [x] :open_file_folder: 0x02
   - [Main source :copyright:](http://aprendeconalf.es/python/ejercicios/)
   - [x] Serie 1 Tipos de datos simples
   - [x] Serie 2 Condicionales
@@ -22,21 +22,18 @@
   - [ ] Serie 8 Ficheros
   - [ ] Serie 9 Depuración
   - [ ] Serie 10 Pandas
-* [x] :open_file_folder: 0x02
+* [x] :open_file_folder: 0x03
   - [Main source :copyright:](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
   - [x] 001 to 019
   - [ ] 020 to 150
-* [x] :open_file_folder: 0x03
+* [x] :open_file_folder: 0x04
   - [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
 
 ## Learning Objectives
 ### General
-* What is Python?
+Python
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:link: [Twitter](https://twitter.com/javierandresgp0)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+Javier Andrés Garzón Patarroyo
+:octocat: [GitHub](https://github.com/javierandresgp/)
