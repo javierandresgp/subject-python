@@ -10,15 +10,16 @@
 ## Learning Objectives
 ### General
 #### Terms and concepts
-* What is Python?
-
 * Basic syntax
   - Keywords
   - Identation
-  - Comments inline and multiline
+  - Comments single line, inline and multiline
 
 * Data types
   - Numbers
+    - Integers
+    - Floating-Point
+    - Complex
   - Strings
   - Booleans
 
@@ -27,16 +28,16 @@
   - Assignment
   - Comparison
   - Logical
-  - Identy
-  - Specials
-  - Concat
+  - Identity
+  - Membership
+  - Bitwise
 
 * Data Structures
   - Variables
   - Lists
   - Tuples
   - Dictionaries
-  - Add
+  - Extra
     - Arrays
 
 * Control flows
@@ -56,6 +57,7 @@
   - Value
 
 * Methods
+  - String
   - List
 
 * Import moduls
@@ -67,6 +69,12 @@
 * POO
   - Classes
   - Objects
+
+* I/O
+  - format()
+  - input()
+  - open()
+  - print()
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
