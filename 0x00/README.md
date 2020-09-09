@@ -5,20 +5,40 @@
 #### Resources
 * [Python :copyright:](https://www.python.org/)
 * [The Python Tutorial :copyright:](https://docs.python.org/3/tutorial/index.html)
+* [Python Documentation contents :copyright:](https://docs.python.org/3/contents.html)
 
 ## Learning Objectives
 ### General
 #### Terms and concepts
 * What is Python?
-* Keywords
-* Comments
+
+* Basic syntax
+  - Keywords
+  - Identation
+  - Comments inline and multiline
+
 * Data types
   - Numbers
   - Strings
+  - Booleans
+
 * Operators
-  - is
-  - in
-  - and
+  - Arithmetics
+  - Assignment
+  - Comparison
+  - Logical
+  - Identy
+  - Specials
+  - Concat
+
+* Data Structures
+  - Variables
+  - Lists
+  - Tuples
+  - Dictionaries
+  - Add
+    - Arrays
+
 * Control flows
   - if
   - if ... else
@@ -27,20 +47,26 @@
   - while
   - for in
   - break
-* Data Structures
-  - Variables
-  - Lists
-    - List methods
-  - Tuples
-  - Dictionaries
+
 * Functions
-  - Parameters
+  - Parameters/arguments
+
+* Return
+  - Reference
+  - Value
+
+* Methods
+  - List
+
 * Import moduls
   -  Import function(s) of the a module
+
+* Classes
+  - Methods
+
 * POO
   - Classes
   - Objects
-
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
