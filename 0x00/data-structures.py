@@ -9,3 +9,5 @@ print(aTuple)
 aDictionary = {'key': 'value', 'key1': 'value1',
                'Number': 4, 8: 'Chavo', 'aKeyN': 'aValueN'}
 print(aDictionary)
+aSet = {'one', 'two', 'three', 'four'}
+print(aSet)

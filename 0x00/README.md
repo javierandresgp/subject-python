@@ -12,6 +12,12 @@
 #### Terms and concepts
 * Basic syntax
   - Keywords
+    - I/O
+      - format()
+      - input()
+      - open()
+      - print()
+      - return
   - Identation
   - Comments single line, inline and multiline
 
@@ -41,25 +47,29 @@
   - Extra
     - Arrays
 
-* Control flows
+* Methods
+  - String
+  - List
+  - Tuple
+  - Dictionary
+  - Set
+
+* Functions
+  - Parameters/arguments
+  - Return
+    - Reference
+    - Value
+  - Scope
+
+* Control flow
   - if
   - if ... else
   - if ... elif ... else
+
 * Loops
   - while
   - for in
   - break
-
-* Functions
-  - Parameters/arguments
-
-* Return
-  - Reference
-  - Value
-
-* Methods
-  - String
-  - List
 
 * Import moduls
   -  Import function(s) of the a module
@@ -70,12 +80,6 @@
 * POO
   - Classes
   - Objects
-
-* I/O
-  - format()
-  - input()
-  - open()
-  - print()
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
