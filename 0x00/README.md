@@ -20,7 +20,6 @@
       - return
   - Identation
   - Comments single line, inline and multiline
-
 * Data types
   - Numbers
     - Integers
@@ -28,7 +27,6 @@
     - Complex
   - Strings
   - Booleans
-
 * Operators
   - Arithmetics
   - Assignment
@@ -37,7 +35,6 @@
   - Identity
   - Membership
   - Bitwise
-
 * Data Structures
   - Variables
   - Lists
@@ -46,40 +43,52 @@
   - Sets
   - Extra
     - Arrays
-
 * Methods
   - String
   - List
   - Tuple
   - Dictionary
   - Set
-
 * Functions
   - Parameters/arguments
   - Return
     - Reference
     - Value
   - Scope
-
 * Control flow
-  - if
-  - if ... else
-  - if ... elif ... else
-
-* Loops
-  - while
-  - for in
+  - Conditionals
+    - if
+    - if ... else
+    - if ... elif ... else
+  - Loops
+    - for in
+    - while
+    - while else
+  - pass
+  - continue
   - break
+  - Nested 
 
+* Generators
+  - yield
+  - yield from
+  - next
+
+* Errors and Exceptions
+  - Errors
+  - Exceptions
+  - Handling Exceptions
+    - try ... except
 * Import moduls
   -  Import function(s) of the a module
-
 * Classes
   - Methods
-
 * POO
   - Classes
   - Objects
+*  Built in functions
+  - range()
+  - len()
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
