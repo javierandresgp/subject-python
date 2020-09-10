@@ -37,6 +37,7 @@
   - Lists
   - Tuples
   - Dictionaries
+  - Sets
   - Extra
     - Arrays
 
