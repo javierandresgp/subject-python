@@ -68,17 +68,19 @@
   - continue
   - break
   - Nested 
-
 * Generators
   - yield
   - yield from
   - next
-
 * Errors and Exceptions
   - Errors
   - Exceptions
   - Handling Exceptions
-    - try ... except
+    - try
+    - except
+    - finaly
+    - raise
+
 * Import moduls
   -  Import function(s) of the a module
 * Classes
