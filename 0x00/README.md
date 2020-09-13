@@ -80,15 +80,22 @@
     - except
     - finaly
     - raise
-
-* Import moduls
-  -  Import function(s) of the a module
-* Classes
-  - Methods
 * POO
-  - Classes
-  - Objects
-*  Built in functions
+  - Object
+    - Propierties/Attributes
+    - Methods/Actions
+    - State
+  - Class
+    - Constructor
+      - Initial state
+  - Instance
+  - Modularity
+    - Import
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+
+*  Built-in functions
   - range()
   - len()
 
