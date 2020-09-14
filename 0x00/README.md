@@ -87,17 +87,34 @@
     - State
   - Class
     - Constructor
+      - Propierties
       - Initial state
+    - Methods
   - Instance
   - Modularity
     - Import
   - Encapsulation
+    - __
   - Inheritance
+    - Superclass
+    - Subclass
+    - Overwrite methods
+    - Multi inheritance
   - Polymorphism
 
-*  Built-in functions
+* Some special methods
+  - __init__
+  - __str__
+  -  ...
+
+*  Some Built-in functions
   - range()
   - len()
+  - super()
+  - isinstance()
+
+* Some external libraries
+  - smtplib
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
