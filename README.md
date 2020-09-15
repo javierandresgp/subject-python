@@ -20,7 +20,9 @@
 * [x] :open_file_folder: 0x03 [Main source :copyright:](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
   - [x] 001 to 019
   - [ ] 020 to 150
-* [x] :open_file_folder: 0x04 [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
+* [x] :open_file_folder: 0x04 [Main source :copyright:](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
+  - [x] Flask, REST API simple
+* [x] :open_file_folder: 0x05 [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
 
 ## Learning Objectives
