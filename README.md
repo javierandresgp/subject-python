@@ -12,7 +12,7 @@
   - [x] Serie 3 Bucles
   - [x] Serie 4 Listas y tuplas
   - [x] Serie 5 Diccionarios
-  - [ ] Serie 6 Funciones
+  - [x] Serie 6 Funciones
   - [ ] Serie 7 Programación funcional
   - [ ] Serie 8 Ficheros
   - [ ] Serie 9 Depuración
