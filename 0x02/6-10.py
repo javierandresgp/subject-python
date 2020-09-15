@@ -1,19 +1,18 @@
 # Escribir una función que convierta un número decimal en
 # binario y otra que convierta un número binario en decimal.
-def decimalToBinary(d):
-    binaryList = []
-    rest = d
-    while (1):
-        print(rest)
-        if rest == 1:
-            binaryList.append(1)
-            break
-        elif rest % 2 != 0:
-            binaryList.append(1)
-        else:
-            binaryList.append(0)
-        rest = round(rest / 2)
-    return binaryList
+aDecimal = int(input('Enter a decimal number: '))
+aBinary = input('Enter a binary number: ')
 
 
-print(decimalToBinary(53))
+def decimalToBinary(argv):
+    res = (bin(argv).replace('0b', ''))
+    return ('The binary number of {} is: {}.'.format(argv, res))
+
+
+def binaryToDecimal(argv):
+    res = int(argv, 2)
+    return ('The decimal number of {} is: {}.'.format(argv, res))
+
+
+print(decimalToBinary(aDecimal))
+print(binaryToDecimal(aBinary))
