@@ -18,8 +18,8 @@
   - [ ] Serie 9 Depuración
   - [ ] Serie 10 Pandas
 * [x] :open_file_folder: 0x03 [Main source :copyright:](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
-  - [x] 001 to 021
-  - [ ] 022 to 150
+  - [x] 001 to 023
+  - [ ] 024 to 150
 * [x] :open_file_folder: 0x04 [Main source :copyright:](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
   - [x] Flask, REST API simple
 * [x] :open_file_folder: 0x05 [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
