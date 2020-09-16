@@ -92,7 +92,14 @@
     - Methods
   - Instance
   - Modularity
-    - Import
+    - import
+    - from ... import
+    - Packages
+    - Building and Distributing Packages
+      - setup
+      - sdist
+      - install
+      - uninstall
   - Encapsulation
     - __
   - Inheritance
@@ -101,6 +108,23 @@
     - Overwrite methods
     - Multi inheritance
   - Polymorphism
+
+* Data persistence
+  - External files
+    - io module
+      - Creation, Opening, Manipulation, Closing.
+      - Pointer
+  - Databases
+
+* Handle data files
+  - Data serialization
+  - Data deserialization
+  - pickle module
+    - dump
+    - load
+
+* Graphic User Interface
+  - tkinter module
 
 * Some special methods
   - __init__
