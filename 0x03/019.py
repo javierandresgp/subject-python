@@ -2,7 +2,11 @@
 # where "Is" has been added to the front. If the given string already
 # begins with "Is" then return the string unchanged.
 def fn(argv):
-    print(argv)
+    if (argv.startswith('Is')):
+        print(argv)
+    else:
+        print('Is{}'.format(argv))
 
 
-fn()
+fn('Is a question?')
+fn("Hello, World!")
