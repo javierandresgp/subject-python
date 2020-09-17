@@ -55,6 +55,7 @@
     - Reference
     - Value
   - Scope
+  - Lambda
 * Control flow
   - Conditionals
     - if
@@ -114,6 +115,9 @@
     - io module
       - Creation, Opening, Manipulation, Closing.
       - Pointer
+  - Files
+    - Binary files
+    - JSON files
   - Databases
 
 * Handle data files
@@ -139,6 +143,17 @@
 
 * Some external libraries
   - smtplib
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+
+* Regular Expressions
+* Docstrings
+* pydoc
+
+* Doctest
+* Unitest
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
