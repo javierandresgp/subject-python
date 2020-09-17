@@ -24,6 +24,7 @@
   - [x] Flask, REST API simple
 * [x] :open_file_folder: 0x05 [Main source :copyright:](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
+* [ ] :open_file_folder: 0x06 [Main source :copyright:](https://www.udemy.com/share/101r66AEEcdF5VRno=/)
 
 ## Learning Objectives
 ### General
