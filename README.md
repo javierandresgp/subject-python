@@ -24,11 +24,12 @@
 * [x] :open_file_folder: 0x03 [:copyright: w3resource](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
   - [x] 001 to 023
   - [ ] 024 to 150
-* [x] :open_file_folder: 0x04
 
+* [x] :open_file_folder: 0x04
   - [x] Flask, REST API simple
 * [x] :open_file_folder: 0x05 [:copyright: Fazt](https://www.youtube.com/watch?v=Esdj9wlBOaI)
   - [x] Flask, REST API simple
+
 * [ ] :open_file_folder: 0x06 [:copyright: Redait Media](https://www.udemy.com/share/101r66AEEcdF5VRno=/)
 
 ## Learning Objectives
