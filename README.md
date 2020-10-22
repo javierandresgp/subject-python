@@ -7,7 +7,7 @@
 * :open_file_folder: 0x01
   - [x] 0-01 to 0-16 [:copyright: Alvaro Chirou](https://www.udemy.com/share/101sFuAEEcdF5VRno=/)
   - [x] 0-17 to 0-20 [:copyright: Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
-  [:copyright: Alfredo Sánchez Alberca](http://aprendeconalf.es/python/ejercicios/)
+  - Series 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 [:copyright: Alfredo Sánchez Alberca](http://aprendeconalf.es/python/ejercicios/)
   - [x] Serie 1 Tipos de datos simples
   - [x] Serie 2 Condicionales
   - [x] Serie 3 Bucles
