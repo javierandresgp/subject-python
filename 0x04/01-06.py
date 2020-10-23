@@ -49,7 +49,6 @@ def rectanglexxyy(x1, x2, y1, y2):
     area = base * height
     print("Rectangle: Base = {}, Height = {}\n\
     Area = {}".format(base, height, area))
-    
 
 
 def triangle(cat1, cat2):
@@ -64,4 +63,3 @@ sphere(2)
 rectanglexxyy("7,1", "5,1", "5,6", "7,6")
 rectanglexxyy("-4,-3", "-4,1", "3,1", "3,-3")
 triangle(3, 9)
-
