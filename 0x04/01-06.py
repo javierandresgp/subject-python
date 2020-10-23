@@ -35,9 +35,21 @@ def rectanglexxyy(x1, x2, y1, y2):
     xxyy = [x1, x2, y1, y2]
     coordinates = []
     for a_str in xxyy:
-        a_list = list(map(int, a_str.split(",")))
+        a_list = tuple(map(int, a_str.split(",")))
         coordinates.append(a_list)
-    print(coordinates)
+    coordinates.sort()
+    a = coordinates[0]
+    b = coordinates[1]
+    c = coordinates[2]
+    d = coordinates[3]
+    x = (c[0] + d[0]) - (a[0] + b[0])
+    y = (b[1] + d[1]) - (a[1] + c[1])
+    base = x / 2
+    height = y / 2
+    area = base * height
+    print("Rectangle: Base = {}, Height = {}\n\
+    Area = {}".format(base, height, area))
+    
 
 
 def triangle(cat1, cat2):
@@ -46,10 +58,10 @@ def triangle(cat1, cat2):
     Hipotenuse = {}".format(cat1, cat2, hipotenuse))
 
 
-#rectangle(16, 4)
-#circle(8)
-#sphere(2)
+rectangle(16, 4)
+circle(8)
+sphere(2)
 rectanglexxyy("7,1", "5,1", "5,6", "7,6")
 rectanglexxyy("-4,-3", "-4,1", "3,1", "3,-3")
-#triangle(3, 9)
+triangle(3, 9)
 
