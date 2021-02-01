@@ -27,10 +27,5 @@
   - [x] 001 to 023
   - [ ] 024 to 150
 
-## Learning Objectives
-### General
-Python
-
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
